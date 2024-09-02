@@ -1,2 +1,1 @@
 # Git-test
-git add .
